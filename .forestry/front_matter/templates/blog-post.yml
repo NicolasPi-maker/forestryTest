@@ -36,6 +36,7 @@ fields:
   label: Catégories
 pages:
 - photos/bug.md
+- photos/bug_2.md
 - photos/my-first-photo.md
 - photos/my-fourth-photo.md
 - photos/my-last-photo.md
