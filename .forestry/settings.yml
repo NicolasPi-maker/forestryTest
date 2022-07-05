@@ -7,7 +7,6 @@ sections:
 - type: document
   path: photo
   label: Photo
-  match: "**/*"
 - type: directory
   path: photos
   label: Photos
