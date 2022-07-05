@@ -36,3 +36,4 @@ fields:
   label: Catégories
 pages:
 - photos/my-first-photo.md
+- photos/my-second-photo.md
