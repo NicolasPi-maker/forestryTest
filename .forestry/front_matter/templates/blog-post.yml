@@ -35,6 +35,7 @@ fields:
   default: []
   label: Catégories
 pages:
+- photos/bug.md
 - photos/my-first-photo.md
 - photos/my-fourth-photo.md
 - photos/my-last-photo.md
